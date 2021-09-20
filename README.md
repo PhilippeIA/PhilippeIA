@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhilippeIA
+- 👋 Hi, I’m Philippe
 - 👀 I’m interested in AI and Big Data
 - 🌱 I’m currently learning Data and Management
 - 💞️ I’m looking to collaborate on multiple project
